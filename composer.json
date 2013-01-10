@@ -1,10 +1,10 @@
 {
-    "name":         "jms/i18n-routing-bundle",
-    "description":  "This bundle allows you to create i18n routes.",
+    "name":         "kachkaev/jms-i18n-routing-bundle",
+    "description":  "This bundle allows you to create i18n routes (forked from jms/i18n-routing-bundle).",
     "keywords":     ["translation","multilanguage","routing"],
     "homepage": "http://jmsyst.com/bundles/JMSI18nRoutingBundle",       
     "type":         "symfony-bundle",
-    "license":      "Apache2",
+    "license":      "Apache-2.0",
     "authors": [
         {
             "name":   "Johannes M. Schmitt",
